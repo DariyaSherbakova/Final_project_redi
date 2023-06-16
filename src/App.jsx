@@ -1,17 +1,15 @@
 
 import './App.css';
+import Nav from './Components/Nav';
 
 function App() {
   return (
 
-<div className='App' >
-<p className='m-12' >Hi from react</p>
+<div className  ='app  min-h-screen ' >
 
-<button className="btn btn-outline btn-info">Info</button>
-<button className="btn btn-outline btn-success">Success</button>
-<button className="btn btn-outline btn-warning">Warning</button>
-<button className="btn btn-outline btn-error">Error</button>
-
+<Nav />
+<main>main</main>
+<footer>footer</footer>
 
 </div>
 
