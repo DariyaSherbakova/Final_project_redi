@@ -16,7 +16,8 @@ function Nav() {
         </div>
       </div>
       <div className="navbar-center">
-        <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+        <img className='w-20' src="https://ik.imagekit.io/xidabax8x/Screenshot_2023-06-19_134917.png?updatedAt=1687177531606" alt="logo" />
+       
       </div>
       <div className="navbar-end">
         {/* <button className="btn btn-ghost btn-circle">
