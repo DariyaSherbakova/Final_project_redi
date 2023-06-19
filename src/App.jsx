@@ -1,6 +1,8 @@
 
 import './App.css';
 import Footer from './Components/Footer';
+import Home from './Components/Home';
+
 import Nav from './Components/Nav';
 
 function App() {
@@ -9,7 +11,7 @@ function App() {
 <div className  ='app  min-h-screen ' >
 
 <Nav />
-<main>main</main>
+<Home />
 <Footer />
 
 </div>
