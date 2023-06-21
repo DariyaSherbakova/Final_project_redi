@@ -1,7 +1,15 @@
 import React from 'react'
+import { useNavigate } from 'react-router-dom';
 
 function HousesForSale({ properties }) {
     console.log(properties);
+
+    const navigate = useNavigate();
+
+    const handleMoreInfo = () => {
+        navigate('/HouseDetails');
+      };
+
     return (
         <div className='container justify-items-center lg:flex lg:flex-wrap lg:gap-8 lg:ml-16 lg:justify-items-center'>
             {properties.map(i => <div className="card w-96 bg-base-100 shadow-xl">
@@ -11,7 +19,7 @@ function HousesForSale({ properties }) {
                     <p>${i.price}</p>
                     <p>{i.beds} bds | {i.baths} ba | {i.area} sqft </p>
                     <div className="card-actions justify-end">
-                        <button className="btn btn-primary">More info</button>
+                        <button className="btn btn-primary" onClick={handleMoreInfo} >More info</button>
                     </div>
                 </div>
             </div>)}
