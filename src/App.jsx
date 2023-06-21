@@ -7,8 +7,11 @@ import { Routes, Route } from 'react-router-dom';
 import Nav from './Components/Nav';
 import { renderMatches } from 'react-router-dom';
 import HousesForSale from './Pages/HousesForSale';
+import data from "./data.json"
 
 function App() {
+
+  console.log(data);
   return (
 
 <div className  ='app  min-h-screen ' >
@@ -17,7 +20,7 @@ function App() {
 
 <Routes>
 <Route path="/" element={<Home />} />
-<Route path="/HousesForSale" element={<HousesForSale />} />
+<Route path="/HousesForSale" element={<HousesForSale properties={data.properties} />} />
 
 </Routes>
 <Footer />

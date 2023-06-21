@@ -1,0 +1,365 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "name": "Family Villa ",
+            "address": "29603 Spain, Malaga",
+            "price": 750000,
+            "year": 2020,
+            "area": 7.157,
+            "beds": 5,
+            "baths": 7,
+            "pics": [
+                "https://ik.imagekit.io/xidabax8x/house_1/imagereader__1_.webp?updatedAt=1686829219955",
+                "https://ik.imagekit.io/xidabax8x/house_1/imagereader.webp?updatedAt=1686829219641",
+                "https://ik.imagekit.io/xidabax8x/house_1/imagereader__2_.webp?updatedAt=1686829219576",
+                "https://ik.imagekit.io/xidabax8x/house_1/imagereader__3_.webp?updatedAt=1686829219626",
+                "https://ik.imagekit.io/xidabax8x/house_1/imagereader__4_.webp?updatedAt=1686829219545",
+                "https://ik.imagekit.io/xidabax8x/house_1/imagereader__6_.webp?updatedAt=1686829219532"
+            ],
+            "amenities": [
+                "parking",
+                "swiming pool",
+                "sawna",
+                "seaview",
+                "beach access",
+                "wine tasting room"
+            ],
+            "description": "Brand new architectural masterpiece located in Bahia de Marbella, a beachside urbanisation at only 5 minutes from Marbella City. This South-facing dream home has been recently completed and finished to perfection to offer the greatest beach style resort living. It boasts a cutting-edge architecture, with the most contemporary design elements. The villa has been furnished and fully decorated by the prestigious Pedro Pen~a design firm, offering a chic and modern interior design throughout. Upstairs, we can find the second-to-none bedrooms, all with an exclusive interior design and panoramic views to the Mediterranean Sea. "
+        },
+        {
+            "id": 2,
+            "name": "Luxury Penthouse",
+            "address": "85314 Germany, Munich",
+            "price": 120000,
+            "year": 2022,
+            "area": 1.971,
+            "beds": 3,
+            "baths": 5,
+            "pics": [
+                "https://ik.imagekit.io/xidabax8x/house_3/imagereader.webp?updatedAt=1687250034469",
+                "https://ik.imagekit.io/xidabax8x/house_3/imagereader__2_.webp?updatedAt=1687250034498",
+                "https://ik.imagekit.io/xidabax8x/house_3/imagereader__1_.webp?updatedAt=1687250034462",
+                "https://ik.imagekit.io/xidabax8x/house_3/imagereader__3_.webp?updatedAt=1687250034717",
+                "https://ik.imagekit.io/xidabax8x/house_3/imagereader__4_.webp?updatedAt=1687250034607",
+                "https://ik.imagekit.io/xidabax8x/house_3/imagereader__5_.webp?updatedAt=1687250034397"
+            ],
+            "amenities": [
+                "gated community",
+                "home theater",
+                "gym",
+                "rooftop terrace",
+                "swiming pool",
+                "parking"
+            ],
+            "description": "Sophisticated living is included in the program for the 72 HOCH DER ISAR town residences. Spacious three or four rooms provide everything you could wish for, with open living/cooking/eating areas and further rooms which offer privacy. The finishing touch to the curated interior design of each of the condominiums is achieved through three style universes. All residents of HOCH DER ISAR have access to two community roof terraces with an unobstructable view over the city to spend some relaxing time and meet new neighbours. Especially at sunrise and sunset, unrivalled moments are guaranteed. Furthermore, the ensemble offers a lot of other well-though-out details and amenities to make your life easy and comfortable."
+        },
+        {
+            "id": 3,
+            "name": "Seaside Retreat",
+            "address": "7890 France, Nice",
+            "price": 550000,
+            "year": 2015,
+            "area": 5.602,
+            "beds": 4,
+            "baths": 6,
+            "pics": [
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/imagereader__6_.webp?updatedAt=1687251597194",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/imagereader.webp?updatedAt=1687251597007",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/imagereader__1_.webp?updatedAt=1687251597085",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/imagereader__3_.webp?updatedAt=1687251596990",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/imagereader__2_.webp?updatedAt=1687251597401",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/imagereader__4_.webp?updatedAt=1687251597120"
+
+            ],
+            "amenities": [
+                "ocean view",
+                "private beach access",
+                "infinity pool",
+                "outdoor kitchen",
+                "beach access",
+                "private tennis court"
+            ],
+            "description": "Escape to this magnificent seaside retreat situated in the beautiful coastal city of Nice, France. This luxurious property offers 4 spacious bedrooms and 6 modern bathrooms, perfect for hosting family and friends. Indulge in breathtaking ocean views from every corner of the house. Take a dip in the infinity pool or stroll down to your private beach access for a day of sun and sand. The outdoor kitchen allows for alfresco dining while enjoying the picturesque surroundings. Experience the ultimate blend of luxury and tranquility in this idyllic coastal haven."
+        },
+        {
+            "id": 4,
+            "name": "Mountain Escape",
+            "address": "5678 Switzerland, Zermatt",
+            "price": 600000,
+            "year": 2019,
+            "area": 8.901,
+            "beds": 6,
+            "baths": 8,
+            "pics": [
+                "https://ik.imagekit.io/xidabax8x/house_1/home_2/imagereader__7_.webp?updatedAt=1686830359358",
+                "https://ik.imagekit.io/xidabax8x/house_1/home_2/imagereader8.webp?updatedAt=1686830359427",
+                "https://ik.imagekit.io/xidabax8x/house_1/home_2/imagereader9.webp?updatedAt=1686830359562",
+                "https://ik.imagekit.io/xidabax8x/house_1/home_2/imagereader10.webp?updatedAt=1686830359458",
+                "https://ik.imagekit.io/xidabax8x/house_1/home_2/imagereader11.webp?updatedAt=1686830359305"
+            ],
+            "amenities": [
+                "ski-in/ski-out",
+                "hot tub",
+                "fireplace",
+                "wine tasting room",
+                "fitness center",
+                "sawna"
+            ],
+            "description": "Discover your own private mountain escape in the picturesque town of Zermatt, Switzerland. This stunning property offers 6 cozy bedrooms and 8 stylish bathrooms, providing ample space for relaxation and rejuvenation. Enjoy direct ski-in/ski-out access to the world-class slopes, allowing you to indulge in your favorite winter activities with ease. After a day on the slopes, unwind in the inviting hot tub or cozy up by the fireplace with a glass of wine from your private tasting room. Experience the perfect blend of alpine charm and modern luxury in this mountain retreat."
+        },
+        {
+            "id": 5,
+            "name": "City Penthouse",
+            "address": "4321 USA, New York",
+            "price": 150000,
+            "year": 2023,
+            "area": 4.509,
+            "beds": 5,
+            "baths": 7,
+            "pics": [
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/house_5/imagereader__5_.webp?updatedAt=1687252290548",
+                "",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/house_5/imagereader.webp?updatedAt=1687252290775",
+                "",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/house_5/imagereader__1_.webp?updatedAt=1687252290395",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/house_5/imagereader__2_.webp?updatedAt=1687252290213",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/house_5/imagereader__3_.webp?updatedAt=1687252290470",
+                "https://ik.imagekit.io/xidabax8x/house_3/house_4/house_5/imagereader__4_.webp?updatedAt=1687252290149"
+            ],
+            "amenities": [
+                "rooftop terrace",
+                "parking",
+                "concierge service",
+                "gourmet kitchen",
+                "library",
+                "fitness center"
+
+            ],
+            "description": "This dramatic penthouse is located high above Central Park on the 75th floor of Deutsche Bank Center at 25 Columbus Circle. Encompassing 4540 ft.² with 180° views from floor to ceiling windows and ceiling heights up to 14’. The PH offers jet liner views of the entire city including sweeping views of Central Park, The Chrysler building, Atlantic Ocean and Statue of Liberty facing west over to Hudson River. A 28’ gallery leads to a 40’ Living Room and Dining Room high above Central Park with mesmerizing views of Manhattan. Adjacent to the FDR is a 35’ fully equipped chefs eat in kitchen that can be opened to the expansive entertaining space or closed off for more intimate dining.Also on Central Park is a grand primary suite that includes two large marble bathrooms, a dressing area and walk in closet. The penthouse features five bedrooms all with en suite baths, a wood paneled Library and baronial media room/family room with panoramic river and city views. There is a laundry room/kitchen as well."
+        },
+        {
+            "id": 6,
+            "name": "Coastal Cottage",
+            "address": "8765 Australia, Sydney",
+            "price": 90000,
+            "year": 2011,
+            "area": 4.607,
+            "beds": 5,
+            "baths": 6,
+            "pics": [
+                "https://ik.imagekit.io/xidabax8x/house_6/imagereader.webp?updatedAt=1687253384518",
+                "https://ik.imagekit.io/xidabax8x/house_6/imagereader__2_.webp?updatedAt=1687253384634",
+                "https://ik.imagekit.io/xidabax8x/house_6/imagereader__1_.webp?updatedAt=1687253384322",
+                "https://ik.imagekit.io/xidabax8x/house_6/imagereader__3_.webp?updatedAt=1687253384417",
+                "https://ik.imagekit.io/xidabax8x/house_6/imagereader__4_.webp?updatedAt=1687253384097",
+                "https://ik.imagekit.io/xidabax8x/house_6/imagereader__5_.webp?updatedAt=1687253384762"
+            ],
+            "amenities": [
+                "beach access",
+                "outdoor living area",
+                "surfing spot",
+                "wine bar",
+                "gourmet kitchen",
+                "seaview"
+            ],
+            "description": "Escape to this charming coastal cottage located in the vibrant city of Sydney, Australia. This idyllic retreat features 5 cozy bedrooms and 6 stylish bathrooms, providing a perfect sanctuary by the sea. Enjoy direct beach access, allowing you to soak up the sun and feel the sand between your toes whenever you desire. The outdoor living area is an ideal space for relaxation and entertaining guests, while the nearby surfing spot offers endless excitement for water sports enthusiasts. Unwind at the end of the day with a glass of wine from your own private wine bar. Experience coastal living at its finest in this delightful cottage."
+        },
+        {
+            "id": 7,
+            "name": "Modern Condo",
+            "address": "9876 Canada, Vancouver",
+            "price": 60000,
+            "year": 2018,
+            "area": 3500,
+            "beds": 2,
+            "baths": 3,
+            "pics": [
+                "https://ik.imagekit.io/xidabax8x/house_7/imagereader__6_.webp?updatedAt=1687253990082",
+                "https://ik.imagekit.io/xidabax8x/house_7/imagereader.webp?updatedAt=1687253990307",
+                "https://ik.imagekit.io/xidabax8x/house_7/imagereader__1_.webp?updatedAt=1687253990147",
+                "https://ik.imagekit.io/xidabax8x/house_7/imagereader__2_.webp?updatedAt=1687253990288",
+                "https://ik.imagekit.io/xidabax8x/house_7/imagereader__3_.webp?updatedAt=1687253990155",
+                "https://ik.imagekit.io/xidabax8x/house_7/imagereader__4_.webp?updatedAt=1687253990172"
+            ],
+            "amenities": [
+                "floor-to-ceiling windows",
+                "fitness center",
+                "private balcony",
+                "24/7 security", 
+                "gourmet kitchen",
+                "boathouse"
+            ],
+            "description": "Embrace modern city living with this sleek and stylish condo situated in the vibrant city of Vancouver, Canada. This contemporary residence features 2 spacious bedrooms and 3 elegant bathrooms, offering a perfect blend of comfort and sophistication. Floor-to-ceiling windows flood the space with natural light, creating a bright and inviting atmosphere. Stay active and fit with the on-site fitness center, and unwind on your private balcony while enjoying breathtaking city views. Rest easy with 24/7 security for peace of mind. Discover the epitome of urban living in this modern condo."
+        },
+        {
+            "id": 8,
+            "name": "Country Estate",
+            "address": "6543 UK, Oxfordshire",
+            "price": 100000,
+            "year": 1930,
+            "area": 4000,
+            "beds": 6,
+            "baths": 8,
+            "pics": [
+                "https://ik.imagekit.io/xidabax8x/house_8/imagereader__5_.webp?updatedAt=1687259391254",
+                "https://ik.imagekit.io/xidabax8x/house_8/imagereader.webp?updatedAt=1687259391313",
+                "https://ik.imagekit.io/xidabax8x/house_8/imagereader__1_.webp?updatedAt=1687259391103",
+                "https://ik.imagekit.io/xidabax8x/house_8/imagereader__4_.webp?updatedAt=1687259391047",
+                "https://ik.imagekit.io/xidabax8x/house_8/imagereader__3_.webp?updatedAt=1687259391013",
+                "https://ik.imagekit.io/xidabax8x/house_8/imagereader__2_.webp?updatedAt=1687259391361"
+            ],
+            "amenities": [
+                "private tennis court",
+                "home office",
+                "library",
+                "wine cellar",
+                "swiming pool",
+                "gardens"
+            ],
+            "description": "Indulge in the charm of the English countryside with this exquisite country estate located in Oxfordshire, UK. This grand residence boasts 6 beautifully appointed bedrooms and 8 luxurious bathrooms, providing an abundance of space for luxurious living. Enjoy the private tennis court for active outdoor pursuits, while the home office and library offer a tranquil setting for work and relaxation. The wine cellar is a connoisseur's dream, housing an impressive collection of vintages. Immerse yourself in the timeless elegance and idyllic surroundings of this prestigious country estate."
+        },
+        {
+            "id": 9,
+            "name": "Lakefront Retreat",
+            "address": "3210 Canada, Muskoka",
+            "price": 85000,
+            "year": 2021,
+            "area": 6000,
+            "beds": 5,
+            "baths": 6,
+            "pics": [
+                "https://ik.imagekit.io/xidabax8x/house_9/imagereader__6_.webp?updatedAt=1687260012085",
+                "https://ik.imagekit.io/xidabax8x/house_9/imagereader__1_.webp?updatedAt=1687260012052",
+                "https://ik.imagekit.io/xidabax8x/house_9/imagereader__4_.webp?updatedAt=1687260011996",
+                "https://ik.imagekit.io/xidabax8x/house_9/imagereader.webp?updatedAt=1687260011946",
+                "https://ik.imagekit.io/xidabax8x/house_9/imagereader__3_.webp?updatedAt=1687260011892",
+                "https://ik.imagekit.io/xidabax8x/house_9/imagereader__2_.webp?updatedAt=1687260011851"
+            ],
+            "amenities": [
+                "private dock",
+                "home theater",
+                "outdoor fireplace",
+                "boathouse",
+                "beach access",
+                "home theater"
+            ],
+            "description": "Escape to this stunning lakefront retreat nestled in the picturesque region of Muskoka, Canada. This elegant retreat offers 5 spacious bedrooms and 6 modern bathrooms, providing the perfect space for relaxation and entertainment. Enjoy direct access to the lake from your private dock, where you can partake in water activities or simply soak in the tranquil surroundings. The home theater is an ideal spot for movie nights, while the outdoor fireplace creates a cozy ambiance for gatherings under the starry night sky. The boathouse adds an extra touch of luxury to this lakeside haven."
+        }
+       
+    ],
+    "admin": {
+        "email": "email@e.com",
+        "password": "secret"
+    },
+    "messages": [
+        {
+            "id": 1,
+            "client": "John",
+            "phone": "+45 055 567 34 23",
+            "email": "john.smith@email.com",
+            "message": "I am interested in bying this house. We need some more information about the infrastruzcture, whether there are kindergardens nearby."
+        },
+        {
+            "id": 2,
+            "client": "Emma",
+            "phone": "+44 077 123 45 67",
+            "email": "emma.stoun@email.com",
+            "message": "I'm considering purchasing this property. Can you provide details about the nearby schools and transportation options?"
+        },
+        {
+            "id": 3,
+            "client": "David",
+            "phone": "+1 555 987 6543",
+            "email": "david.grey@email.com",
+            "message": "Hi, I'm interested in this house. Could you let me know if there are any parks or recreational facilities in the vicinity?"
+        },
+        {
+            "id": 4,
+            "client": "Sophie",
+            "phone": "+61 0401 234 567",
+            "email": "sophie.goldberg@email.com",
+            "message": "I'm keen on buying this property. Can you provide information about the local shopping centers and amenities?"
+        },
+        {
+            "id": 5,
+            "client": "Michael",
+            "phone": "+33 06 12 34 56 78",
+            "email": "michael.aniston@email.com",
+            "message": "Interested in this house. Can you share details about the nearby healthcare facilities and hospitals?"
+        },
+        {
+            "id": 6,
+            "client": "Olivia",
+            "phone": "+49 0151 987 65432",
+            "email": "olivia.pitt@email.com",
+            "message": "Considering purchasing this property. Please provide information about the nearby public transportation options and commute times."
+        },
+        {
+            "id": 7,
+            "client": "William",
+            "phone": "+61 0412 345 678",
+            "email": "william.anderson@email.com",
+            "message": "I'm interested in buying this house. Can you provide details about the local schools and their ratings?"
+        },
+        {
+            "id": 8,
+            "client": "Anna",
+            "phone": "+1 987 654 3210",
+            "email": "anna.global@email.com",
+            "message": "Hi there! I'm interested in this property. Could you tell me if there are any recreational facilities or parks nearby?"
+        }
+      
+    ],
+    "tours": [
+        {
+            "id": 1,
+            "client": "Carla",
+            "phone": "+43 855 878 99 65",
+            "time": "12:30",
+            "date": "13/7/2023"
+        },
+        {
+            "id": 2,
+            "client": "John",
+            "phone": "+15 877 234 72 88",
+            "time": "10:00",
+            "date": "15/7/2023"
+        },
+        {
+            "id": 3,
+            "client": "Emma",
+            "phone": "+38 098 633 55 33",
+            "time": "14:45",
+            "date": "17/7/2023"
+        },
+        {
+            "id": 4,
+            "client": "Michael",
+            "phone": "+98 543 77 54 23",
+            "time": "11:15",
+            "date": "20/7/2023"
+        },
+        {
+            "id": 5,
+            "client": "Sophia",
+            "phone": "+23 573 44 11 78",
+            "time": "13:30",
+            "date": "22/7/2023"
+        },
+        {
+            "id": 6,
+            "client": "David",
+            "phone": "+48 474 34 66 94",
+            "time": "15:00",
+            "date": "25/8/2023"
+        },
+        {
+            "id": 7,
+            "client": "Olivia",
+            "phone": "+44 715 86 43 32",
+            "time": "09:45",
+            "date": "28/7/2023"
+        }
+    ]
+}
