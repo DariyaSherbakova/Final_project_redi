@@ -1,4 +1,5 @@
 import React from 'react'
+import Login from './Login'
 
 function Nav() {
   return (
@@ -25,9 +26,11 @@ function Nav() {
     </button> */}
 
         {/* The button to open modal */}
+        
         <div className="modal" id="my_modal_8">
           <div className="modal-box">
-          
+            
+            <Login />
             <form className="my-form">
               <h3 className="font-bold text-lg text-center">Login</h3>
               <div className="input-container">
@@ -46,7 +49,14 @@ function Nav() {
               <a href="#" className="btn btn-primary ">Submit</a>
             </div>
           </div>
-        </div>    <a href="#my_modal_8" className="btn">Login</a>
+        </div>    <a href="#my_modal_8" className="btn btn-primary">Login</a>
+{/* 
+<div className="modal" id="my_modal_8">
+        <div className="modal-box">
+          <Login />
+        </div>
+      </div> */}
+
         {/* Put this part before </body> tag */}
 
         {/* <button className="btn btn-ghost btn-circle">

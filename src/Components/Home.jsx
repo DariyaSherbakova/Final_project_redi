@@ -17,6 +17,7 @@ function Home() {
           <button className="btn btn-primary" onClick={handleGetStarted}>
             Get Started
           </button>
+          
         </div>
       </div>
     </div>
