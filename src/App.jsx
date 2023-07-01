@@ -18,6 +18,7 @@ import ReservationForm from './Components/ReservationForm';
 import Login from './Components/Login';
 import Dashboard from './Pages/Dashboard';
 import Messages from './Pages/Messages';
+import Tours from './Pages/Tours';
 
 
 function App() {
@@ -52,6 +53,7 @@ function App() {
         <Route path="/HouseDetails" element={ <HouseDetails selectHome={selectHome} />  } />
         <Route path="/Dashboard" element={<Dashboard />} />
         <Route path="/Messages" element={<Messages />} />
+        <Route path="/Tours" element={<Tours />} />
 
       </Routes>
       <Footer />

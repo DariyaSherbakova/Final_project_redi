@@ -13,6 +13,7 @@ function Dashboard({Dashboard}) {
     const [properties, setProperties] = useState()
     const [messages, setMessages] = useState()
     const [reservedtour, setReservedtour] = useState()
+   
     useEffect(() => {
         // API Calls goes here
 
@@ -33,8 +34,9 @@ function Dashboard({Dashboard}) {
         <Link to='/messages'> 
         <button className='btn btn-primary'>Messages</button>
       </Link>
-        <button className='btn btn-primary '>Messages</button>
+        <Link to='/tours'>
         <button className='btn btn-primary ' >Reserved tours</button>
+        </Link>
    <div className='container justify-items-center lg:flex lg:flex-wrap lg:gap-8 lg:ml-16 lg:justify-items-center'>
             {properties && properties.map(i => <div className="card w-96 bg-base-100 shadow-xl">
                 <figure><img src={i.pics[0]} alt="Houses" /></figure>
