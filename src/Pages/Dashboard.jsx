@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { useState } from 'react';
 import { useEffect } from 'react';
-
+import { Link } from 'react-router-dom';
 
 
 
@@ -30,6 +30,9 @@ function Dashboard({Dashboard}) {
     <div  className='justify-items-center text-center' >
         {messages && messages.map(i => <p>{i.client}</p>)}
         <h1 className='text-5xl'>Welcome to the Dashboard!</h1>
+        <Link to='/messages'> 
+        <button className='btn btn-primary'>Messages</button>
+      </Link>
         <button className='btn btn-primary '>Messages</button>
         <button className='btn btn-primary ' >Reserved tours</button>
    <div className='container justify-items-center lg:flex lg:flex-wrap lg:gap-8 lg:ml-16 lg:justify-items-center'>

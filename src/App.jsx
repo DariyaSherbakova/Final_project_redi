@@ -17,6 +17,7 @@ import CallUsForm from './Components/CallUsForm';
 import ReservationForm from './Components/ReservationForm';
 import Login from './Components/Login';
 import Dashboard from './Pages/Dashboard';
+import Messages from './Pages/Messages';
 
 
 function App() {
@@ -42,13 +43,15 @@ function App() {
 
       <Nav />
       
-     <Login admin={admin} /> 
+      {/* <Login admin={admin} />   */}
     
       <Routes>
         <Route path="/" element={<Home />} />
+        
         <Route path="/HousesForSale" element={<HousesForSale setSelectedHome={setSelectedHome} />} />
         <Route path="/HouseDetails" element={ <HouseDetails selectHome={selectHome} />  } />
         <Route path="/Dashboard" element={<Dashboard />} />
+        <Route path="/Messages" element={<Messages />} />
 
       </Routes>
       <Footer />

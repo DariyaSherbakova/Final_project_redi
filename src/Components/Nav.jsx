@@ -11,8 +11,8 @@ function Nav() {
           </label>
           <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
             <li><a>Homepage</a></li>
-            <li><a>Portfolio</a></li>
-            <li><a>About</a></li>
+            <li><a>Houses for sale</a></li>
+            <li><a>Contact us</a></li>
           </ul>
         </div>
       </div>
@@ -31,7 +31,7 @@ function Nav() {
           <div className="modal-box">
             
             <Login />
-            <form className="my-form">
+            {/* <form className="my-form">
               <h3 className="font-bold text-lg text-center">Login</h3>
               <div className="input-container">
                 <label className="input-label ">Username</label><br />
@@ -41,13 +41,13 @@ function Nav() {
                 <label className="input-label">Password</label><br />
                 <input type="password" name="pass" placeholder="" className="text-input border solid black" />
               </div>
-            </form>
+            </form> */}
 
 
-            <div className="button-container modal-action ">
+            {/* <div className="button-container modal-action ">
 
               <a href="#" className="btn btn-primary ">Submit</a>
-            </div>
+            </div> */}
           </div>
         </div>    <a href="#my_modal_8" className="btn btn-primary">Login</a>
 {/* 
